@@ -182,7 +182,7 @@ bundle exec gem bump -v VERSION --tag --push --remote upstream && gem release
 License
 -------
 
-Copyright (c) 2014 [John Dyer][7] and [contributors][8], released under the [New BSD License][9]
+Copyright (c) 2014 [John Dyer][6] and [contributors][7], released under the [New BSD License][9]
 
 [1]: https://github.com/spree/spree
 [2]: https://developers.facebook.com/apps/?action=create
@@ -191,8 +191,8 @@ Copyright (c) 2014 [John Dyer][7] and [contributors][8], released under the [New
 [5]: https://github.com/solidusio-contrib/solidus_social/issues
 [6]: https://github.com/LBRapid
 [7]: https://github.com/solidusio-contrib/solidus_social/graphs/contributors
-[8]: https://github.com/solidusio-contrib/solidus_social/blob/master/LICENSE
-[9]: https://github.com/solidusio-contrib/solidus_social/blob/master/CONTRIBUTING.md
+[8]: https://github.com/solidusio-contrib/solidus_social/blob/master/CONTRIBUTING.md
+[9]: https://github.com/solidusio-contrib/solidus_social/blob/master/LICENSE
 [10]: https://github.com/intridea/omniauth/wiki/List-of-Strategies
 [11]: https://github.com/intridea/omniauth/wiki/Strategy-Contribution-Guide
 [12]: http://fontello.com/
